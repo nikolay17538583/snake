@@ -1,2 +1,2 @@
-* desktop only
-* press R to restart
+- desktop only
+- press R to restart
