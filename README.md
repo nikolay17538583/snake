@@ -1,1 +1,3 @@
-a simple snake game written in vanilla js (❀❛ ֊ ❛„) ♡
+* desktop only
+
+* press R to restart
