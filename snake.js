@@ -183,7 +183,7 @@ function startGame() {
   currentVacantKeys = vacantKeys;
 
   canvas.style.borderColor = "";
-  gameInterval = setInterval(step, 20);
+  gameInterval = setInterval(step, 100);
   drawCanvas();
 }
 
