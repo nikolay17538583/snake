@@ -3,5 +3,3 @@
 - desktop only
 - use arrows / wasd
 - press R to restart
-
-૮⸝⸝> ̫ <⸝⸝ ა
